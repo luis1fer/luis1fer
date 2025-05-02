@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="![capa gitbub](https://github.com/user-attachments/assets/e1d875e7-35e5-493c-8716-04a64f15b33d)"/>
+  
+  ![Image](https://github.com/user-attachments/assets/49d4e0a8-bb4f-42ad-ba39-5278aee482a5)
 </div>
 
 ###
