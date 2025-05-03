@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Desenvolvedor back-end com desejo de criar soluções tecnológicas que impactem positivamente a vida das pessoas.<br><br>Estou me aperfeiçoando na linguagem Java, banco de dados mySQL e futuramente planejo aprender o framework SpringBoot.<br><br>Possuo conhecimentos básicos nas linguagens e ferramentas abaixo, aonde tive contato no meu curso técnico em Desenvolvimento de Sistemas, e atualmente estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas.</p>
+<p align="left">Sou um desenvolvedor back-end com desejo de criar soluções tecnológicas que impactem positivamente a vida das pessoas.<br><br>Estou me aperfeiçoando na linguagem Java, banco de dados mySQL e futuramente planejo aprender o framework SpringBoot.<br><br>Possuo conhecimentos básicos nas linguagens e ferramentas abaixo, aonde tive contato no meu curso técnico em Desenvolvimento de Sistemas, e atualmente estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
