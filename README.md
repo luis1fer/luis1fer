@@ -3,8 +3,10 @@
 ###
 
 <div align="center">
-  
-  ![Image](https://github.com/user-attachments/assets/49d4e0a8-bb4f-42ad-ba39-5278aee482a5)
+
+  ![foto_perfil](https://github.com/user-attachments/assets/76746cfb-e44b-4ced-8c1d-fc70076d28bb)
+
+
 </div>
 
 ###
